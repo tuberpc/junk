@@ -1,2 +1,4 @@
-# junk
-just to test some stuff with git
+# Junk
+Code with no place to be
+
+> markdown is pretty cool
